@@ -1,0 +1,1 @@
+module.exports={connectionURL:'mongodb://localhost/CartDb'}
